@@ -181,7 +181,7 @@
     
     <xsl:template match="*">
         <xsl:message>
-            Ukendt element: <xsl:value-of select="node-name(.)"/>
+            Ukendt element: <xsl:value-of select="local-name(.)"/>
         </xsl:message>
     </xsl:template>
     
