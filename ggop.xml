@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-stylesheet type="text/xsl" href="../../html_gop/viewEmessage.xsl"?>
+<Emessage xmlns="urn:oio:medcom:municipality:1.0.4"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:oio:medcom:municipality:1.0.4 ../../schema/1.0.4/EMessage.xsd"
+    xmlns:mm100="urn:oio:medcom:municipality:1.0.0">
+    <Envelope xmlns="urn:oio:medcom:municipality:1.0.0">
+        <Sent>
+            <Date>2009-09-04</Date>
+            <Time>10:43</Time>
+        </Sent>
+        <Identifier>54382645943294</Identifier>
+        <AcknowledgementCode>pluspositivkvitt</AcknowledgementCode>
+    </Envelope>
+    <RehabilitationPlan>
+        <Letter>
+            <Identifier>45249877239313</Identifier>
+            <VersionCode>GGOP100</VersionCode>
+            <StatisticalCode>GGOP2</StatisticalCode>
+            <Authorisation>
+                <mm100:Date>2015-03-04</mm100:Date>
+                <mm100:Time>09:26</mm100:Time>
+            </Authorisation>
+            <TypeCode>GGOP</TypeCode>
+        </Letter>
+        <Sender>
+            <mm100:EANIdentifier>5790001354145</mm100:EANIdentifier>
+            <mm100:Identifier>4202360</mm100:Identifier>
+            <IdentifierCode>sygehusafdelingsnummer</IdentifierCode>
+            <mm100:OrganisationName>Odense Universitetshospital</mm100:OrganisationName>
+            <mm100:DepartmentName>Ortopædkirurgisk Afdeling</mm100:DepartmentName>
+            <mm100:UnitName>Q</mm100:UnitName>
+            <mm100:StreetName>Sdr. Boulevard 29</mm100:StreetName>
+            <mm100:DistrictName>Odense C</mm100:DistrictName>
+            <mm100:PostCodeIdentifier>5000</mm100:PostCodeIdentifier>
+            <mm100:TelephoneSubscriberIdentifier>+4566131372</mm100:TelephoneSubscriberIdentifier>
+            <SignedBy>
+                <PersonGivenName>Ellinor</PersonGivenName>
+                <PersonSurnameName>Strøm</PersonSurnameName>
+                <PersonTitle>Terapeut</PersonTitle>
+                <mm100:TelephoneSubscriberIdentifier>+4566136421</mm100:TelephoneSubscriberIdentifier>
+                <mm100:DepartmentName>Neurologisk Afdeling N2</mm100:DepartmentName>
+            </SignedBy>
+            <CoWriter>
+                <mm100:Identifier>34</mm100:Identifier>
+                <mm100:IdentifierCode>amt</mm100:IdentifierCode>
+                <PersonGivenName>Peter</PersonGivenName>
+                <PersonSurnameName>Andresen</PersonSurnameName>
+                <PersonTitle>Pedel</PersonTitle>
+                <mm100:TelephoneSubscriberIdentifier>88 88 88 88</mm100:TelephoneSubscriberIdentifier>
+                <mm100:DepartmentName>Bygningsadministration</mm100:DepartmentName>
+            </CoWriter>
+        </Sender>
+        <Receiver>
+            <mm100:EANIdentifier>5790000121441</mm100:EANIdentifier>
+            <mm100:Identifier>461</mm100:Identifier>
+            <IdentifierCode>kommunenummer</IdentifierCode>
+            <mm100:OrganisationName>Odense kommune</mm100:OrganisationName>
+            <mm100:DepartmentName>Hjemmeplejen</mm100:DepartmentName>
+            <mm100:UnitName>Æbleblomsten</mm100:UnitName>
+            <mm100:StreetName>Flakhaven 2</mm100:StreetName>
+            <mm100:DistrictName>Odense C</mm100:DistrictName>
+            <mm100:PostCodeIdentifier>5000</mm100:PostCodeIdentifier>
+        </Receiver>
+        <GPCCReceiver>
+            <CCReceiver>
+                <mm100:EANIdentifier>5790002012274</mm100:EANIdentifier>
+                <mm100:Identifier>024015</mm100:Identifier>
+                <IdentifierCode>ydernummer</IdentifierCode>
+                <mm100:OrganisationName>Arta Masoumi</mm100:OrganisationName>
+                <mm100:DepartmentName>Almen Lægehjælp</mm100:DepartmentName>
+                <mm100:StreetName>Slotsbryggen 18</mm100:StreetName>
+                <mm100:DistrictName>Nykøbing Falster</mm100:DistrictName>
+                <mm100:PostCodeIdentifier>5120</mm100:PostCodeIdentifier>
+            </CCReceiver>
+        </GPCCReceiver>
+        <CCReceiver>
+            <mm100:EANIdentifier>5790002012276</mm100:EANIdentifier>
+            <mm100:Identifier>037974</mm100:Identifier>
+            <IdentifierCode>ydernummer</IdentifierCode>
+            <mm100:OrganisationName>Arne Agertoft &amp; Hanne Petersen</mm100:OrganisationName>
+        </CCReceiver>
+        <Patient>
+            <mm100:CivilRegistrationNumber>2512484916</mm100:CivilRegistrationNumber>
+            <mm100:PersonSurnameName>Ann Berggren</mm100:PersonSurnameName>
+            <mm100:PersonGivenName>Nancy</mm100:PersonGivenName>
+            <mm100:StreetName>Hindbærvej 23</mm100:StreetName>
+            <mm100:SuburbName>Hjallese</mm100:SuburbName>
+            <mm100:DistrictName>Odense S</mm100:DistrictName>
+            <mm100:PostCodeIdentifier>5260</mm100:PostCodeIdentifier>
+            <mm100:Occupation>Tømrer</mm100:Occupation>
+            <TelephoneSubscriber>
+                <mm100:TelephoneSubscriberIdentifier>+4523321234</mm100:TelephoneSubscriberIdentifier>
+                <TelephoneSubscriberCode>mobil</TelephoneSubscriberCode>
+            </TelephoneSubscriber>
+            <TelephoneSubscriber>
+                <mm100:TelephoneSubscriberIdentifier>+4523321234</mm100:TelephoneSubscriberIdentifier>
+                <TelephoneSubscriberCode>fastnet</TelephoneSubscriberCode>
+            </TelephoneSubscriber>
+            <TelephoneSubscriber>
+                <mm100:TelephoneSubscriberIdentifier>+4523321234</mm100:TelephoneSubscriberIdentifier>
+                <TelephoneSubscriberCode>arbejde</TelephoneSubscriberCode>
+            </TelephoneSubscriber>
+            <EmailAddressIdentifier>nancy@berggren.dk</EmailAddressIdentifier>
+            <CoAddress>
+                <mm100:PersonSurnameName>Andersen</mm100:PersonSurnameName>
+                <mm100:PersonGivenName>Rosa</mm100:PersonGivenName>
+                <mm100:StreetName>Skovgård 3</mm100:StreetName>
+                <mm100:SuburbName>Hjallese</mm100:SuburbName>
+                <mm100:DistrictName>Odense SØ</mm100:DistrictName>
+                <mm100:PostCodeIdentifier>5220</mm100:PostCodeIdentifier>
+            </CoAddress>
+        </Patient>
+        <Relatives>
+            <Relative>
+                <mm100:RelationCode>aegtefaelle</mm100:RelationCode>
+                <mm100:PersonSurnameName>Petersen</mm100:PersonSurnameName>
+                <mm100:PersonGivenName>Irene</mm100:PersonGivenName>
+                <mm100:StreetName>Hindbærvej 23</mm100:StreetName>
+                <mm100:SuburbName>Hjallese</mm100:SuburbName>
+                <mm100:DistrictName>Odense S</mm100:DistrictName>
+                <mm100:PostCodeIdentifier>5260</mm100:PostCodeIdentifier>
+                <TelephoneSubscriber>
+                    <mm100:TelephoneSubscriberIdentifier>+4565335376</mm100:TelephoneSubscriberIdentifier>
+                    <TelephoneSubscriberCode>fastnet</TelephoneSubscriberCode>
+                </TelephoneSubscriber>
+                <TelephoneSubscriber>
+                    <mm100:TelephoneSubscriberIdentifier>+4565335375</mm100:TelephoneSubscriberIdentifier>
+                    <TelephoneSubscriberCode>arbejde</TelephoneSubscriberCode>
+                </TelephoneSubscriber>
+                <TelephoneSubscriber>
+                    <mm100:TelephoneSubscriberIdentifier>+4565335374</mm100:TelephoneSubscriberIdentifier>
+                    <TelephoneSubscriberCode>mobil</TelephoneSubscriberCode>
+                </TelephoneSubscriber>
+                <EmailAddressIdentifier>irene_p12@gmail.com</EmailAddressIdentifier>
+            </Relative>
+            <Relative>
+                <mm100:RelationCode>uspec_paaroerende</mm100:RelationCode>
+                <mm100:PersonSurnameName>Jensen</mm100:PersonSurnameName>
+                <mm100:PersonGivenName>Mads</mm100:PersonGivenName>
+                <mm100:StreetName>Hindbærvej 21</mm100:StreetName>
+                <mm100:SuburbName>Hjallese</mm100:SuburbName>
+                <mm100:DistrictName>Odense S</mm100:DistrictName>
+                <mm100:PostCodeIdentifier>5260</mm100:PostCodeIdentifier>
+            </Relative>
+        </Relatives>
+        <TypeOfRehabilitationPlan>specialiseret</TypeOfRehabilitationPlan>
+        <InformationForPatientAndRelatives>Fri tekst</InformationForPatientAndRelatives>
+        <ConsentInformed>ja</ConsentInformed>
+        <PracticalInformation>Fri tekst</PracticalInformation>
+        <PatientSafetyAspects>Fri tekst</PatientSafetyAspects>
+        <RehabilitationDeadline>Fri tekst</RehabilitationDeadline>
+        <CurrentHospitalContact>
+            <Start>
+                <Date>2014-12-13</Date>
+                <Time>12:34</Time>
+            </Start>
+            <ExpectedEnd>
+                <Date>2014-12-20</Date>
+                <Time>13:45</Time>
+            </ExpectedEnd>
+        </CurrentHospitalContact>
+        <HospitalAmbulatoryControl>
+            <ExpectedStart>
+                <Date>2014-12-20</Date>
+                <Time>13:45</Time>
+            </ExpectedStart>
+            <Location>
+                <mm100:EANIdentifier>5790002012272</mm100:EANIdentifier>
+                <mm100:Identifier>465</mm100:Identifier>
+                <IdentifierCode>region</IdentifierCode>
+                <mm100:OrganisationName>Region Syddanmark</mm100:OrganisationName>
+                <mm100:DepartmentName>Ældrecenter ØST</mm100:DepartmentName>
+                <mm100:UnitName>Grøn stue</mm100:UnitName>
+                <mm100:StreetName>Gyvelbakken 13</mm100:StreetName>
+                <mm100:SuburbName>Voldsmose</mm100:SuburbName>
+                <mm100:DistrictName>Odense NØ</mm100:DistrictName>
+                <mm100:PostCodeIdentifier>5120</mm100:PostCodeIdentifier>
+            </Location>
+        </HospitalAmbulatoryControl>
+        <mm100:PatientHealthSummary>Fri tekst</mm100:PatientHealthSummary>
+        <AbilityAtDischargeSummary>Fri tekst</AbilityAtDischargeSummary>
+        <mm104:AbilityAtDischargeExtended xmlns:mm104="urn:oio:medcom:municipality:1.0.4"
+            xmlns="urn:oio:medcom:municipality:1.0.0">
+            <Bold>8a. Kroppens funktioner og anatomi</Bold><Break/>
+            <Italic>- Mentale funktioner</Italic><Break/><Break/>
+            <Italic>- Sanser og smerter</Italic><Break/><Break/>
+            <Italic>- Stemme og tale</Italic><Break/><Break/>
+            <Italic>- Kardiovaskulære, hæmatologiske, immunologiske og respiratoriske
+                funktioner</Italic><Break/><Break/>
+            <Italic>- Fordøjelse, stoftsskifte og hormonelle funktioner</Italic><Break/><Break/>
+            <Italic>- Kønsorganer, urinveje og forplantning</Italic><Break/><Break/>
+            <Italic>- Bevægeapparatet</Italic><Break/><Break/>
+            <Italic>- Hud og tilhørende strukturers funktioner</Italic><Break/><Break/>
+            <Bold>8b. Aktiviteter og Deltagelse</Bold><Break/>
+            <Italic>- Læring og anvendelse af viden</Italic><Break/><Break/>
+            <Italic>- Almindelige opgaver og krav</Italic><Break/><Break/>
+            <Italic>- Kommunikation</Italic><Break/><Break/>
+            <Italic>- Bevægelse og færden</Italic><Break/><Break/>
+            <Italic>- Omsorg for sig selv</Italic><Break/><Break/>
+            <Italic>- Husførelse</Italic>
+            <Break/><Break/>
+            <Italic>- Interpersonelt samspil og kontakt</Italic><Break/><Break/>
+            <Italic>- Vigtige livsområder</Italic><Break/><Break/>
+            <Italic>- Samfundsliv, socialt liv og medborgerskab</Italic><Break/><Break/>
+            <Bold>8c. Omgivelsesfaktorer</Bold><Break/>
+            <Italic>- Produkter og teknologi</Italic><Break/><Break/>
+            <Italic>- Støtte og kontakt</Italic><Break/><Break/>
+            <Italic>- Holdninger</Italic><Break/><Break/>
+         </mm104:AbilityAtDischargeExtended>
+        
+        <RehabilitationNeedAndPotential>Fri tekst</RehabilitationNeedAndPotential>
+
+        <ICD10Diagnoses>
+            <ICD10Diagnose>
+                <PrimaryDiagnosis>
+                    <Code>DC189</Code>
+                    <TypeCode>ICD10kode</TypeCode>
+                    <Text>Kræft i tyktarmen</Text>
+                </PrimaryDiagnosis>
+                <SecondaryDiagnosis>
+                    <Code>DS720</Code>
+                    <TypeCode>ICD10kode</TypeCode>
+                    <Text>Fraktur af lårbenshals</Text>
+                </SecondaryDiagnosis>
+            </ICD10Diagnose>
+        </ICD10Diagnoses>
+        
+        <ICFClassifications>
+            <ICFClassification>
+                <ICFCode>
+                    <Code>FB799</Code>
+                    <TypeCode>ICFKode</TypeCode>
+                    <Text>Funktioner relateret til bevægeapparat uden specifikation</Text>
+                </ICFCode>
+                <ICFGradient>
+                    <Code>FB799</Code>
+                    <TypeCode>ICFKode</TypeCode>
+                    <Text>Funktioner relateret til bevægeapparat uden specifikation</Text>
+                </ICFGradient>                
+            </ICFClassification>
+            <ICFClassification>
+                <ICFCode>
+                    <Code>FB799</Code>
+                    <TypeCode>ICFKode</TypeCode>
+                    <Text>Funktioner relateret til bevægeapparat uden specifikation</Text>
+                </ICFCode>
+                <ICFGradient>
+                    <Code>FB799</Code>
+                    <TypeCode>ICFKode</TypeCode>
+                    <Text>Funktioner relateret til bevægeapparat uden specifikation</Text>
+                </ICFGradient>                
+            </ICFClassification>
+        </ICFClassifications>
+        
+        <JournalExcerpt>
+            <TypeOfExcerpt>Tilbud om kage</TypeOfExcerpt>
+            <Signer>
+                <SignedBy>
+                    <PersonGivenName>Preben</PersonGivenName>
+                    <PersonSurnameName>Elkjær</PersonSurnameName>
+                    <PersonTitle>Prof. med.</PersonTitle>
+                </SignedBy>
+                <Date>2012-03-23</Date>
+            </Signer>
+            <Comment>Fri tekst<mm100:Break/></Comment>
+        </JournalExcerpt>
+        
+        <JournalExcerpt>
+            <TypeOfExcerpt>Uddrag af operationsbeskrivelse</TypeOfExcerpt>
+            <Signer>
+                <SignedBy>
+                    <PersonGivenName>Preben</PersonGivenName>
+                    <PersonSurnameName>Elkjær</PersonSurnameName>
+                    <PersonTitle>Prof. med.</PersonTitle>
+                </SignedBy>
+                <Date>2012-03-23</Date>
+            </Signer>
+            <Comment>Fri tekst<mm100:Break/></Comment>
+        </JournalExcerpt>
+        
+        <JournalExcerpt>
+            <TypeOfExcerpt>Uddrag af journalnotat neurologisk tilsyn</TypeOfExcerpt>
+            <Signer>
+                <SignedBy>
+                    <PersonGivenName>Karl</PersonGivenName>
+                    <PersonSurnameName>Møller</PersonSurnameName>
+                    <PersonTitle>Doktor Psyk</PersonTitle>
+                </SignedBy>
+                <Date>2013-05-31</Date>
+            </Signer>
+            <Comment>Fri tekst<mm100:Break/></Comment>
+        </JournalExcerpt>
+        <JournalExcerpt>
+            <TypeOfExcerpt>Uddrag uden struktur</TypeOfExcerpt>
+            <Comment>Fri tekst<mm100:Break/>
+            Skrevet af: Alm med 1. reservelæge Bjarne Goldbæk den 27. februar 2013</Comment>
+        </JournalExcerpt>
+
+        <ContactCounty>
+            <mm100:EANIdentifier>57001231231</mm100:EANIdentifier>
+            <mm100:DepartmentName>Region Øst</mm100:DepartmentName>
+            <mm100:StreetName>Hovedvej 10</mm100:StreetName>
+            <mm100:DistrictName>Østerslev</mm100:DistrictName>
+            <mm100:PostCodeIdentifier>5678</mm100:PostCodeIdentifier>
+            <mm100:TelephoneSubscriberIdentifier>88 88 88 88</mm100:TelephoneSubscriberIdentifier>
+        </ContactCounty>
+        <ContactMunicipality>
+            <mm100:DepartmentName>Odder kommune</mm100:DepartmentName>
+            <mm100:StreetName>Dæmningvej 10</mm100:StreetName>
+            <mm100:DistrictName>Søby</mm100:DistrictName>
+            <mm100:PostCodeIdentifier>1234</mm100:PostCodeIdentifier>
+            <mm100:TelephoneSubscriberIdentifier>88 88 88 88</mm100:TelephoneSubscriberIdentifier>
+        </ContactMunicipality>
+        
+        <HealthCareTeam>
+            <Member>
+                <mm100:Identifier>34</mm100:Identifier>
+                <mm100:IdentifierCode>amt</mm100:IdentifierCode>
+                <PersonGivenName>Ellinor</PersonGivenName>
+                <PersonSurnameName>Strøm</PersonSurnameName>
+                <PersonTitle>Terapeut</PersonTitle>
+                <mm100:TelephoneSubscriberIdentifier>+4566136421</mm100:TelephoneSubscriberIdentifier>
+                <mm100:DepartmentName>Neurologisk Afdeling N2</mm100:DepartmentName>
+            </Member>
+            <Member>
+                <PersonGivenName>Arne</PersonGivenName>
+                <PersonSurnameName>Bævermose</PersonSurnameName>
+                <PersonTitle>Terapeut</PersonTitle>
+                <mm100:TelephoneSubscriberIdentifier>+4566136421</mm100:TelephoneSubscriberIdentifier>
+                <mm100:DepartmentName>Neurologisk Afdeling N2</mm100:DepartmentName>
+            </Member>
+            <Member>
+                <PersonGivenName>Trine</PersonGivenName>
+                <PersonSurnameName>Lund</PersonSurnameName>
+                <PersonTitle>Terapeut</PersonTitle>
+                <mm100:TelephoneSubscriberIdentifier>+4566136421</mm100:TelephoneSubscriberIdentifier>
+                <mm100:DepartmentName>Neurologisk Afdeling N2</mm100:DepartmentName>
+            </Member>
+            <Member>
+                <PersonGivenName>Vagn</PersonGivenName>
+                <PersonSurnameName>Andersen</PersonSurnameName>
+                <PersonTitle>Terapeut</PersonTitle>
+                <mm100:TelephoneSubscriberIdentifier>+4566136421</mm100:TelephoneSubscriberIdentifier>
+                <mm100:DepartmentName>Neurologisk Afdeling N2</mm100:DepartmentName>
+            </Member>
+            <Member>
+                <PersonGivenName>Ole</PersonGivenName>
+                <PersonSurnameName>Vedel</PersonSurnameName>
+                <PersonTitle>Terapeut</PersonTitle>
+                <mm100:TelephoneSubscriberIdentifier>+4566136421</mm100:TelephoneSubscriberIdentifier>
+                <mm100:DepartmentName>Neurologisk Afdeling N2</mm100:DepartmentName>
+            </Member>
+        </HealthCareTeam>
+        
+        <FinalResult>
+            <ResultReceiver> <!-- Gentages 5x -->
+                <mm100:EANIdentifier>5790002012276</mm100:EANIdentifier>
+                <mm100:Identifier>037974</mm100:Identifier>
+                <IdentifierCode>ydernummer</IdentifierCode>
+                <mm100:OrganisationName>Arne Agertoft &amp; Hanne Petersen</mm100:OrganisationName>
+            </ResultReceiver>
+        </FinalResult>
+        
+        <Reference>
+            <RefDescription>Se de gældende anbefalinger her</RefDescription>
+            <URL>http://sundhedsstyrelsen.dk</URL>
+        </Reference>
+    </RehabilitationPlan>
+</Emessage>

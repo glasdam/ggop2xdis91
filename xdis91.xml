@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xdis:Emessage xmlns:xdis="http://rep.oio.dk/sundcom.dk/medcom.dk/xml/schemas/2006/07/01/">
+  <xdis:Envelope>
+        <xdis:Sent>
+            <xdis:Date>2009-09-04</xdis:Date>
+            <xdis:Time>10:43</xdis:Time>
+        </xdis:Sent>
+        <xdis:Identifier>54382645943294</xdis:Identifier>
+        <xdis:AcknowledgementCode>pluspositivkvitt</xdis:AcknowledgementCode>
+    </xdis:Envelope>
+  <xdis:ClinicalEmail>
+    <xdis:Letter>
+      <xdis:Identifier>45249877239313</xdis:Identifier>
+      <xdis:VersionCode>XD9134L</xdis:VersionCode>
+      <xdis:StatisticalCode>GGOP2</xdis:StatisticalCode>
+      <xdis:Authorisation>
+                <xdis:Date>2015-03-04</xdis:Date>
+                <xdis:Time>09:26</xdis:Time>
+            </xdis:Authorisation>
+      <xdis:TypeCode>XDIS91</xdis:TypeCode>
+      <xdis:StatusCode>nytbrev</xdis:StatusCode>
+    </xdis:Letter>
+    <xdis:Sender>
+      <xdis:EANIdentifier>afsender</xdis:EANIdentifier>
+      <xdis:Identifier>4202360</xdis:Identifier>
+      <xdis:IdentifierCode>sygehusafdelingsnummer</xdis:IdentifierCode>
+      <xdis:OrganisationName>Odense Universitetshospital</xdis:OrganisationName>
+      <xdis:DepartmentName>Ortopædkirurgisk Afdeling</xdis:DepartmentName>
+      <xdis:UnitName>Q</xdis:UnitName>
+      <xdis:StreetName>Sdr. Boulevard 29</xdis:StreetName>
+      <xdis:DistrictName>Odense C</xdis:DistrictName>
+      <xdis:PostCodeIdentifier>5000</xdis:PostCodeIdentifier>
+      <xdis:TelephoneSubscriberIdentifier>+4566131372</xdis:TelephoneSubscriberIdentifier>
+    </xdis:Sender>
+    <xdis:Receiver>
+      <xdis:EANIdentifier>modtager</xdis:EANIdentifier>
+      <xdis:Identifier>461</xdis:Identifier>
+      <xdis:IdentifierCode>kommunenummer</xdis:IdentifierCode>
+      <xdis:OrganisationName>Odense kommune</xdis:OrganisationName>
+      <xdis:DepartmentName>Hjemmeplejen</xdis:DepartmentName>
+      <xdis:UnitName>Æbleblomsten</xdis:UnitName>
+      <xdis:StreetName>Flakhaven 2</xdis:StreetName>
+      <xdis:DistrictName>Odense C</xdis:DistrictName>
+      <xdis:PostCodeIdentifier>5000</xdis:PostCodeIdentifier>
+    </xdis:Receiver>
+    <xdis:Patient>
+      <xdis:CivilRegistrationNumber>2512484916</xdis:CivilRegistrationNumber>
+      <xdis:PersonSurnameName>Ann Berggren</xdis:PersonSurnameName>
+      <xdis:PersonGivenName>Nancy</xdis:PersonGivenName>
+      <xdis:StreetName>Hindbærvej 23</xdis:StreetName>
+      <xdis:SuburbName>Hjallese</xdis:SuburbName>
+      <xdis:DistrictName>Odense S</xdis:DistrictName>
+      <xdis:PostCodeIdentifier>5260</xdis:PostCodeIdentifier>
+      <xdis:OccupancyText>Tømrer</xdis:OccupancyText>
+      <xdis:EpisodeOfCareStatusCode>inaktiv</xdis:EpisodeOfCareStatusCode>
+    </xdis:Patient>
+    <xdis:AdditionalInformation>
+      <xdis:Priority>rutine</xdis:Priority>
+      <xdis:Subject>Genoptræningsplan (specialiseret)</xdis:Subject>
+    </xdis:AdditionalInformation>
+    <xdis:ClinicalInformation>
+      <xdis:Text01><xdis:Bold>Kopimodtagere</xdis:Bold><xdis:Break/>Kopi til egen læge: EAN: 5790002012274, ydernummer: 024015, Arta Masoumi, Almen Lægehjælp, Slotsbryggen 18, 5120 Nykøbing Falster<xdis:Break/>EAN: 5790002012276, ydernummer: 037974, Arne Agertoft &amp; Hanne Petersen<xdis:Break/><xdis:Break/><xdis:Bold>Underskrivere</xdis:Bold><xdis:Break/>Ellinor Strøm, Terapeut, +4566136421, Neurologisk Afdeling N2<xdis:Break/>Peter Andresen, Pedel, amt: 34, 88 88 88 88, Bygningsadministration<xdis:Break/><xdis:Break/><xdis:Bold>Yderligere patientoplysninger</xdis:Bold><xdis:Break/>mobil: +4523321234, fastnet: +4523321234, arbejde: +4523321234, nancy@berggren.dk<xdis:Break/> c/o adresse: Rosa Andersen, Skovgård 3, Hjallese, 5220 Odense SØ<xdis:Break/>Informeret samtykke: ja<xdis:Break/><xdis:Break/><xdis:Bold>Pårørende</xdis:Bold><xdis:Break/>Irene Petersen, aegtefaelle, Hindbærvej 23, Hjallese, 5260 Odense S<xdis:Break/>fastnet: +4565335376, arbejde: +4565335375, mobil: +4565335374, irene_p12@gmail.com<xdis:Break/>Mads Jensen, uspec_paaroerende, Hindbærvej 21, Hjallese, 5260 Odense S<xdis:Break/><xdis:Break/><xdis:Bold>Information om behandling til patient og pårørende</xdis:Bold><xdis:Break/>Fri tekst<xdis:Break/><xdis:Break/><xdis:Bold>Praktiske oplysninger</xdis:Bold><xdis:Break/>Fri tekst<xdis:Break/><xdis:Break/><xdis:Bold>Patientsikkerhedsmæssige forhold</xdis:Bold><xdis:Break/>Fri tekst<xdis:Break/><xdis:Break/><xdis:Bold>Tidsfrist for start af genoptræning</xdis:Bold><xdis:Break/>Fri tekst<xdis:Break/><xdis:Break/><xdis:Bold>Aktuel sygehuskontakt</xdis:Bold><xdis:Break/>Start: 2014-12-13 Kl. 12:34<xdis:Break/>Forventet Afslutning: 2014-12-20 Kl. 13:45<xdis:Break/><xdis:Break/><xdis:Bold>Aftaler om kontrol og opfølgning</xdis:Bold><xdis:Break/>Dato for kontrol: 2014-12-20 Kl. 13:45<xdis:Break/>EAN: 5790002012272, region: 465, Region Syddanmark, Ældrecenter ØST, Grøn stue, Gyvelbakken 13, Voldsmose, 5120 Odense NØ<xdis:Break/><xdis:Break/><xdis:Bold>Helbredsforhold inkl. beskrivelse af behandlingsforløb - Sammenfatning</xdis:Bold><xdis:Break/>Fri tekst<xdis:Break/><xdis:Break/><xdis:Bold>Helbredsrelateret funktionsevne på udskrivningstidspunktet - Sammenfatning</xdis:Bold><xdis:Break/>Fri tekst<xdis:Break/><xdis:Break/><xdis:Bold>Udvidet beskrivelse af helbredsrelateret funktionsevne på udskrivningstidspunktet</xdis:Bold><xdis:Break/>
+            <xdis:Bold>8a. Kroppens funktioner og anatomi</xdis:Bold><xdis:Break/>
+            <xdis:Italic>- Mentale funktioner</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Sanser og smerter</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Stemme og tale</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Kardiovaskulære, hæmatologiske, immunologiske og respiratoriske
+                funktioner</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Fordøjelse, stoftsskifte og hormonelle funktioner</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Kønsorganer, urinveje og forplantning</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Bevægeapparatet</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Hud og tilhørende strukturers funktioner</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Bold>8b. Aktiviteter og Deltagelse</xdis:Bold><xdis:Break/>
+            <xdis:Italic>- Læring og anvendelse af viden</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Almindelige opgaver og krav</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Kommunikation</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Bevægelse og færden</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Omsorg for sig selv</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Husførelse</xdis:Italic>
+            <xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Interpersonelt samspil og kontakt</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Vigtige livsområder</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Samfundsliv, socialt liv og medborgerskab</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Bold>8c. Omgivelsesfaktorer</xdis:Bold><xdis:Break/>
+            <xdis:Italic>- Produkter og teknologi</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Støtte og kontakt</xdis:Italic><xdis:Break/><xdis:Break/>
+            <xdis:Italic>- Holdninger</xdis:Italic><xdis:Break/><xdis:Break/>
+         <xdis:Break/><xdis:Break/><xdis:Bold>Patientens genoptræningsbehov og potentiale</xdis:Bold><xdis:Break/>Fri tekst<xdis:Break/><xdis:Break/><xdis:Bold>Diagnoser</xdis:Bold><xdis:Break/>Kræft i tyktarmen (DC189)<xdis:Break/>Fraktur af lårbenshals (DS720)<xdis:Break/><xdis:Break/><xdis:Bold>ICF-koder</xdis:Bold><xdis:Break/>Funktioner relateret til bevægeapparat uden specifikation (FB799)<xdis:Break/>Funktioner relateret til bevægeapparat uden specifikation (FB799)<xdis:Break/>Funktioner relateret til bevægeapparat uden specifikation (FB799)<xdis:Break/>Funktioner relateret til bevægeapparat uden specifikation (FB799)<xdis:Break/><xdis:Break/><xdis:Bold>Uddrag fra journal: Tilbud om kage</xdis:Bold><xdis:Break/>2012-03-23, Preben Elkjær, Prof. med.<xdis:Break/>Fri tekst<xdis:Break/><xdis:Break/><xdis:Break/><xdis:Bold>Uddrag fra journal: Uddrag af operationsbeskrivelse</xdis:Bold><xdis:Break/>2012-03-23, Preben Elkjær, Prof. med.<xdis:Break/>Fri tekst<xdis:Break/><xdis:Break/><xdis:Break/><xdis:Bold>Uddrag fra journal: Uddrag af journalnotat neurologisk tilsyn</xdis:Bold><xdis:Break/>2013-05-31, Karl Møller, Doktor Psyk<xdis:Break/>Fri tekst<xdis:Break/><xdis:Break/><xdis:Break/><xdis:Bold>Uddrag fra journal: Uddrag uden struktur</xdis:Bold><xdis:Break/>Fri tekst<xdis:Break/>
+            Skrevet af: Alm med 1. reservelæge Bjarne Goldbæk den 27. februar 2013<xdis:Break/><xdis:Break/><xdis:Bold>Spørgsmål til Regionen</xdis:Bold><xdis:Break/>EAN: 57001231231, Region Øst, Hovedvej 10, 5678 Østerslev, 88 88 88 88<xdis:Break/><xdis:Break/><xdis:Bold>Spørgsmål til Kommunen</xdis:Bold><xdis:Break/>Odder kommune, Dæmningvej 10, 1234 Søby, 88 88 88 88<xdis:Break/><xdis:Break/><xdis:Bold>Behandlende team under indlæggelse</xdis:Bold><xdis:Break/>Ellinor Strøm, Terapeut, Neurologisk Afdeling N2, amt: 34, +4566136421<xdis:Break/>Arne Bævermose, Terapeut, Neurologisk Afdeling N2, +4566136421<xdis:Break/>Trine Lund, Terapeut, Neurologisk Afdeling N2, +4566136421<xdis:Break/>Vagn Andersen, Terapeut, Neurologisk Afdeling N2, +4566136421<xdis:Break/>Ole Vedel, Terapeut, Neurologisk Afdeling N2, +4566136421<xdis:Break/><xdis:Break/><xdis:Bold>Slutstatusmodtager</xdis:Bold><xdis:Break/>EAN: 5790002012276, ydernummer: 037974, Arne Agertoft &amp; Hanne Petersen<xdis:Break/></xdis:Text01>
+    </xdis:ClinicalInformation>
+    <xdis:Reference>
+            <xdis:RefDescription>Se de gældende anbefalinger her</xdis:RefDescription>
+            <xdis:URL>http://sundhedsstyrelsen.dk</xdis:URL>
+        </xdis:Reference>
+  </xdis:ClinicalEmail>
+</xdis:Emessage>
